@@ -2,4 +2,8 @@
 
  BPM 每天一点更新
 
- ## 第一次混淆代码 2025-12-24
+ ## 优选节点地址
+
+```
+https://www.wetest.vip/page/cloudflare/address_v4.html
+```
